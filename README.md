@@ -21,6 +21,9 @@ Insights
 7. Overall Activation rate is 57.5%
 8. Overall Delinquent rate is 6.07%
 
+   ![image](https://github.com/user-attachments/assets/698e9981-eb0d-4b67-ba42-901f2d5a4f63)
+
+
 
 
 
